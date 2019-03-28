@@ -7,11 +7,10 @@ description: A blog about technology and stuff related
 
 picture: assets/images/picture.jpg
 
-url: http://koppl.in/violet
-# your url: http://USERNAME.github.io
+url: https://yannanlics.github.io/
 
 # if you don't have any of social below, comment the line
-email: me@jane.doe
+email: yannanli@usc.edu
 
 gems:
   - jekyll-seo-tag
